@@ -7,4 +7,3 @@ if array = 0 array.join
 elsif condition
    array = 1 then array.join(" and ")
 end
-end
