@@ -3,5 +3,5 @@
 
 
 def oxford_comma(array)
-return array.to_s
+return array.join.to_s
 end
