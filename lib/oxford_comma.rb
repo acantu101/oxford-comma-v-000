@@ -4,6 +4,6 @@
 
 def oxford_comma(array)
 if array = 0 array.join
-elsif condition
+elsif 
    array = 1 then array.join(" and ")
 end
