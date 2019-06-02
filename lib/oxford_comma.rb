@@ -3,5 +3,6 @@
 
 
 def oxford_comma(array)
-return array.join.to_s
+if array return array.join
+if array > 1 return array.join(" and ")
 end
