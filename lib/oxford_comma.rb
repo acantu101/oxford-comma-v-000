@@ -3,14 +3,5 @@
 
 
 def oxford_comma(array)
-return array.join if array[0] if array.lenght <=1
-return array.join(" and ") if array.lenght = 2
-return array.to_s if array array.lenght > 3
 array[0..-2].join(", ") + "and" + array[-1]
-end
-
-
-def english_join(array = nil)
-  return array.to_s if array.nil? or array.length <= 1
-  array[0..-2].join(", ") + " and " + array[-1]
 end
