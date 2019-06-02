@@ -8,5 +8,3 @@ elsif array == [-1] then array.join(" and ")
 elsif array == [1] then array.join(', ') + " and " + array[-1]
 end
 end
-
-
