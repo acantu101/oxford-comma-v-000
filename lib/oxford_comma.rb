@@ -4,5 +4,5 @@
 
 def oxford_comma(array)
 if array return array.join
-if array > 1 return array.join(" and ")
+if array = 1 then  array.join(" and ")
 end
