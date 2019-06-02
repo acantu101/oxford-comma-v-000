@@ -8,4 +8,4 @@ elsif array == 1 then array.join(" and ")
 elsif array == 3 then array.to_s
 end
 end
-end
+
