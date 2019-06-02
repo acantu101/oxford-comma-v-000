@@ -3,6 +3,6 @@
 
 
 def oxford_comma(array)
-array.join(" and ")
+if array.size = 1 then array.join(" and ")
 
 end
