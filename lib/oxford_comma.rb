@@ -3,8 +3,5 @@
 
 
 def oxford_comma(Array)
-if array.lenght 0 then array.join
-elsif array 2 then array.join(" and ")
-elsif array 3 then array.to_s
-end
+array.to_s
 end
